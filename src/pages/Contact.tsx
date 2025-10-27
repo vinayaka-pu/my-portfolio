@@ -11,7 +11,7 @@ export default function Contact() {
           I’d love to hear from you! Whether it’s about teaching, food, or new ideas.
         </p>
         <a
-          href="mailto:vinayaka@example.com"
+          href="mailto:punjabivinayaka9@gmail.com"
           className="px-6 py-3 bg-bohoGreen text-bohoBeige rounded-xl font-medium hover:bg-bohoDarkGreen transition"
         >
           Send Email

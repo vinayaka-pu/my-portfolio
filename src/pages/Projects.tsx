@@ -7,7 +7,7 @@ export default function Projects() {
       title: "Portfolio Website",
       description:
         "A personal website built with React, TypeScript, and Tailwind CSS to showcase my work.",
-      link: "https://github.com/vinayaka/portfolio",
+      link: "https://github.com/vinayaka-pu/my-portfolio",
     },
     {
       title: "Recipe Hub",
